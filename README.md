@@ -1,4 +1,4 @@
-# Shadcn Sample
+# Vite &Shadcn Sample
 
 Project to try and explore shadcn components.
 
